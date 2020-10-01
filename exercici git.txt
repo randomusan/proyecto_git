@@ -3,3 +3,5 @@ Exercisi GIT
 El meu primer repositori Git.
 
 Afegida la primera branca.
+
+No se si ho faig molt bé tot això.
